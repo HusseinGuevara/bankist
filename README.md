@@ -11,6 +11,6 @@ Vanilla JavaScript
 * Able to smooth scroll to various areas of website. 
 
 ## Author
-*Hussein Gurevara: https://github.com/HusseinGuevara
+Hussein Gurevara: https://github.com/HusseinGuevara
 
 ## Demo
