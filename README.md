@@ -14,3 +14,4 @@ Vanilla JavaScript
 Hussein Gurevara: https://github.com/HusseinGuevara
 
 ## Demo
+<img src="https://github.com/HusseinGuevara/bankist/blob/main/bankist_demo.gif" width="600" alt="Demo" />
